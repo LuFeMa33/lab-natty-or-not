@@ -20,22 +20,65 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Valentim, meu mundo azul ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trata-se de uma música para o meu filho Valentim.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT.
+Voicemaker.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para criação da música.
+Utilizei o Voicemaker para color voz ao um pedaço da música.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Valentim, Meu Mundo Azul
+
+(Verso 1)
+Valentim, meu mundo azul,
+Quando você sorri, tudo fica mais feliz.
+Com você, o tempo voa, é pura emoção,
+Você é meu sol, minha inspiração.
+
+(Refrão)
+Te amo, te amo, meu anjo querido,
+Sempre estarei ao seu lado, prometido.
+Você é meu melhor amigo, meu coração,
+Juntos, seguimos, na mesma direção.
+
+(Verso 2)
+Nos teus passos, vejo o futuro brilhar,
+Cada abraço teu, faz tudo acalmar.
+Com você, não há dia ruim,
+Meu mundo azul, meu Valentim.
+
+(Refrão)
+Te amo, te amo, meu anjo querido,
+Sempre estarei ao seu lado, prometido.
+Você é meu melhor amigo, meu coração,
+Juntos, seguimos, na mesma direção.
+
+(Ponte)
+Quando o vento soprar e a noite chegar,
+Estarei sempre aqui pra te abraçar.
+Meu pequeno, meu herói, meu bem maior,
+Você e eu, juntos, seja onde for.
+
+(Refrão)
+Te amo, te amo, meu anjo querido,
+Sempre estarei ao seu lado, prometido.
+Você é meu melhor amigo, meu coração,
+Juntos, seguimos, na mesma direção.
+
+
+
+https://github.com/user-attachments/assets/4820d19e-33bc-4301-a762-58e4824d6997
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com as IAs temos uma facilidade de criar qualquer conteúdo que possa nos auxiliar e de maneira muito rápida. Está ao alcance de qualquer pessoa, basta e saber executar um bom prompt.
 ```
 
 ### Exemplos e Insigths
